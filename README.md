@@ -12,8 +12,11 @@ návod
 -----
 Pro aktivní spolupráci je třeba vědět, jak funguje verzovací systém git a jeho rozšíření github.
 Materály jsou např. na [zdrojaku](http://www.zdrojak.cz/zpravicky/git-immersion-vas-zasveti-do-gitu-behem-nekolik-minut/).
-Pokud se nenajde nic jineho, tak udelam screencast "jak na github pro widlaky".
-Přepokládám, že linuxaci žádný screencast nepořebují.
+Pokud se nenajde nic jineho, tak udelam screencast "jak na github pro neprogramátory".
+
+Jinak pro ty, co nechtějí používat žádné git klienty je tu možnost editovat soubory přímo v prohlížeči.
+Stačí do-procházet repozitářem až na úroveň souboru a vpravo nahoře nad obsahem souboru je tlačítko "edit".
+Toto by se dalo i doporučit vzhledem k absenci použitelného UTF textového editoru na widow$.
 
 úkoly
 -----
