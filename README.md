@@ -6,6 +6,8 @@ Oficiální program naleznete na http://www.pirati.cz/program/start.
 
 Program je členěn do několika bodů. Každý bod má svou podsložku, ve které jsou materialy k tomuto bodu.
 
+Pro motivaci: práce se následně může vizualizovat. Např. [takto](http://www.youtube.com/watch?v=ylB4f59lCpI).
+
 návod
 -----
 Pro aktivní spolupráci je třeba vědět, jak funguje verzovací systém git a jeho rozšíření github.
