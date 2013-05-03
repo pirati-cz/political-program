@@ -19,7 +19,7 @@ Přepokládám, že linuxaci žádný screencast nepořebují.
 -----
 Úkoly, které je potřeba udělat, prodiskutovat, atd. jsou ve formě "issues".
 Kazdý nový úkol by měl mít v názvu zkratku, jakého bodu programu se týká.
-Např. pro úkoly bodu sociální systém bude v názvu vždy (soc).
+Např. pro úkoly bodu sociální systém bude v názvu vždy "(socsys)" (pro ostatní se vždy podívejte, zda zkratka již existuje).
 Je to proto, aby se v issues dalo dobře vyhledávat.
 
 Dále je možné issues kategorizovat.
