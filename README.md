@@ -23,7 +23,7 @@ POZOR: z toho důvodu je lepší dělat více malých pull requestů, než jeden
 Diskuse nad malou změnou má šanci být věcná a v reálném čase se uzavřit.
 
 Jinak pro ty, co nechtějí používat žádné git klienty je tu možnost editovat soubory přímo v prohlížeči.
-Stačí do-procházet __svým foknutým__ repozitářem až na úroveň souboru a vpravo nahoře nad obsahem souboru je tlačítko "edit".
+Stačí do-procházet __svým forknutým__ repozitářem až na úroveň souboru a vpravo nahoře nad obsahem souboru je tlačítko "edit".
 Toto by se dalo i doporučit vzhledem k absenci použitelného UTF textového editoru na widow$.
 Poté pull request do oficiální repository s popisem atd.
 
