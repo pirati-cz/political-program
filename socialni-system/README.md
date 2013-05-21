@@ -6,7 +6,7 @@ Přerozdělování trhem vylučuje značnou část občanů z přístupu ke zdro
 Stát musí vytvářet prostředí, ve kterém motivace trhem stimuluje k produkci dostatku zdrojů, kterými lze zajistit co nejvyšší standard i pro ty, kteří pracovat nemohou.
 
 S rostoucím podílem technologií na vytváření zdrojů již není možné ani žádoucí, aby stát zajišťoval smysluplnou práci všem občanům a snažil se regulovat pracovní trh.
-Piráti považují automatizaci a zefektivňování procesů za pokrok, výsledek technologiké revoluce, cíl.
+Piráti považují výsledky technologické revoluce, automatizaci a zefektivňování procesů za pokrok.
 Menší poptávku na pracovním trhu můžeme brát jako možnost věnovat se více rodině, vzdělání, koníčkům nebo dobrovolnictví.
 Aktivity, které nejsou zdrojem finančního zisku nedokáže pracovní trh ocenit.
 Piráti vítají osvobození od lopoty a jedinečnou možnost pro každého člověka realizovat ve volném čase své vlastní pojetí štěstí.
