@@ -17,7 +17,7 @@ Je to spravedlivý podíl bohatství země, do které se narodil a kterou sdíl�
 Základní příjem vyřeší problém chudoby.
 Umožní zjednodušení, zprůhlednění a zefektivnění současného systému podmíněných dávek, mj. odstraněním těch dávek, které zastarali nebo jejich výběr je neefektivní či náchylný ke korupci.
 Zároveň podpoří rozkvět nekomerčních aktivit (viz. bod svobodná kultura), které pracovní trh neumí ohodnotit.
-Piráti míní, že díky VZP dojde k explozi kreativity!
+Piráti předpokládají, že díky VZP dojde k explozi kreativity!
 
 Výše základního příjmu se však musí odvíjet od možností ekonomiky.
 Piráti považují za spravedlivé financovat VZP z:
