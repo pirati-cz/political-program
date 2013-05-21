@@ -15,7 +15,7 @@ Pirátská strana proto prosazuje myšlenku všeobecného základního příjmu 
 Jedná se o model přerozdělování prostředků, ve kterém naprosto každý občan, nezávisle na své ekonomické situaci či jiných podmínkách, získává rovnocenný základní příjem zajišťující důstojné a kulturní postavení ve společnosti.
 Je to spravedlivý podíl bohatství země, do které se narodil a kterou sdílí s ostatními spoluobčany.
 Základní příjem vyřeší problém chudoby.
-Umožní zjednodušení, zprůhlednění a zefektivnění současného systému podmíněných dávek, mj. odstraněním některých dávek, které zastarali nebo jejich výběr je neefektivní či náchylný ke korupci.
+Umožní zjednodušení, zprůhlednění a zefektivnění současného systému podmíněných dávek, mj. odstraněním těch dávek, které zastarali nebo jejich výběr je neefektivní či náchylný ke korupci.
 Zároveň podpoří rozkvě nekomerčních aktivit (viz. bod svobodná kultura), které pracovní trh neumí ohodnotit.
 Piráti míní, že díky VZP dojde k explozi kreativity!
 
