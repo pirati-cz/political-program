@@ -16,7 +16,7 @@ Jedná se o model přerozdělování prostředků, ve kterém naprosto každý o
 Je to spravedlivý podíl bohatství země, do které se narodil a kterou sdílí s ostatními spoluobčany.
 Základní příjem vyřeší problém chudoby.
 Umožní zjednodušení, zprůhlednění a zefektivnění současného systému podmíněných dávek, mj. odstraněním těch dávek, které zastarali nebo jejich výběr je neefektivní či náchylný ke korupci.
-Zároveň podpoří rozkvě nekomerčních aktivit (viz. bod svobodná kultura), které pracovní trh neumí ohodnotit.
+Zároveň podpoří rozkvět nekomerčních aktivit (viz. bod svobodná kultura), které pracovní trh neumí ohodnotit.
 Piráti míní, že díky VZP dojde k explozi kreativity!
 
 Výše základního příjmu se však musí odvíjet od možností ekonomiky.
