@@ -1,24 +1,34 @@
 Sociální systém
 ===============
 
-Doba se změnila. Společnost již není schopna všem občanům zajistit smysluplnou práci na pracovním trhu díky automatizaci nejrůznějších oborů a zefektivňování pracovních postupů. Výsledkem je to, že k výrobě stejného množství statků je zapotřebí stále méně a méně lidí. Pro současnou společnost, ve které je sociální status založen na tom "mít práci", je to ale problém. 
+Sociální politika státu je základním pilířem společenské stability.
+Přerozdělování trhem vylučuje značnou část občanů z přístupu ke zdrojům a vede k neustálé koncentraci bohatství.
+Stát musí vytvářet prostředí, ve kterém motivace trhem stimuluje k produkci dostatku zdrojů, kterými lze zajistit co nejvyšší standard i pro ty, kteří pracovat nemohou.
 
-Piráti považují automatizaci a zefektivňování procesů za pokrok. Vzniklý nedostatek práce na trhu vidí jako možnost věnovat se více rodině, vzdělání, koníčkům nebo dobrovolnictví. To všechno jsou hodnoty, které pracovní trh nedokáže ocenit, ale které mají pro moderní společnost klíčový význam. To, co se musí změnit je systém. 
+S rostoucím podílem technologií na vytváření zdrojů již není možné ani žádoucí, aby stát zajišťoval smysluplnou práci všem občanům a snažil se regulovat pracovní trh.
+Piráti považují automatizaci a zefektivňování procesů za pokrok, výsledek technologiké revoluce, cíl.
+Menší poptávku na pracovním trhu můžeme brát jako možnost věnovat se více rodině, vzdělání, koníčkům nebo dobrovolnictví.
+Aktivity, které nejsou zdrojem finančního zisku nedokáže pracovní trh ocenit.
+Piráti vítají osvobození od lopoty a jedinečnou možnost pro každého člověka realizovat ve volném čase své vlastní pojetí štěstí.
 
-Pirátská strana proto prosazuje myšlenku [všeobecného základního příjmu](http://www.vseobecnyzakladniprijem.cz/) (VZP). Jedná se o model přerozdělování prostředků, ve kterém naprosto každý občan, nezávisle na své ekonomické situaci či jiných podmínkách, získává rovnocenný základní příjem zajišťující důstojné a kulturní postavení ve společnosti. Spravedlivý podíl bohatství země, do které se narodil a kterou sdílí s ostatními spoluobčany.
+Pirátská strana proto prosazuje myšlenku všeobecného základního příjmu (VZP).
+Jedná se o model přerozdělování prostředků, ve kterém naprosto každý občan, nezávisle na své ekonomické situaci či jiných podmínkách, získává rovnocenný základní příjem zajišťující důstojné a kulturní postavení ve společnosti.
+Je to spravedlivý podíl bohatství země, do které se narodil a kterou sdílí s ostatními spoluobčany.
+Základní příjem vyřeší problém chudoby.
+Umožní zjednodušení, zprůhlednění a zefektivnění současného systému podmíněných dávek, mj. odstraněním některých dávek, které zastarali nebo jejich výběr je neefektivní či náchylný ke korupci.
+Zároveň podpoří rozkvě nekomerčních aktivit (viz. bod svobodná kultura), které pracovní trh neumí ohodnotit.
+Piráti míní, že díky VZP dojde k explozi kreativity!
 
-Model též řeší sjednocení daní, jež se nabalují na produkt či službu během dlouhé cesty ke spotřebiteli v jednu komplexní daň uplatňovanou až na konci řetězce.
-
-Základní příjem vyřeší problém extrémní chudoby, umožní zjednodušení, zprůhlednění, zefektivnění současného systému podmíněných dávek. Znamená však, že nikdo nedostaně žádné další peníze! Žádná mateřská, přídavky, dotace na nájem, uhlí, cestu do práce, ... Výjimkou jsou důchody. Invalidní i starobní, které VZP doplňují na úroveň zajišťující důstojný život. 
-
-VZP tedy znamená, kdo pracovat nechce, nemusí a neumře hlady, ale také nebudou ti, co "v tom umí na sociálce chodit".
-Piráti mají za to, že každý by měl být dostatečně zodpovědný (viz. vzdělávací systém) aby VZP využil podle vlastního uvážení.
-
-Tématem je financování VZP. Piráti považují za spravedlivé financovat VZP z:
+Výše základního příjmu se však musí odvíjet od možností ekonomiky.
+Piráti považují za spravedlivé financovat VZP z:
 - daní z finančních transakcí, většinou spekulativních, které nic společnosti nepřinášejí
 - daní prostředí znečištujících produktů, včetně luxusního, které je zpravidla vyráběno neefektivně, čímž nadměrně poškozuje společné životní prostředí
-- zásadní změnou zdanění spotřeby na úkor zdanění práce
+- zásadní změnou zdanění spotřeby na úkor zdanění práce. Je tedy spjat se sjednocením daní, jež se nabalují na produkt či službu během dlouhé cesty ke spotřebiteli v jednu komplexní daň uplatňovanou až na konci řetězce (viz. bod Daně).
+VZP musí být vypláceno moderním způsobem prostřednictvím transparentního elektronického systému hodného 21. století založeného na svobodném software.
+To umožní vyplácet ho s takovou frekvencí, která se ukáže být nejefektivnější a nejvíce motivující bez zbytečného plýtvání prostředky.
+Piráti mají za to, že každý musí být dostatečně zodpovědný (viz. vzdělávací systém) aby VZP využil podle vlastního uvážení.
 
-Ten, kdo si přivydělá, se má lépe. V rámci daňového systému chceme aktivní lidi zvýhodnit a odstranit byrokratické překážky, které je demotivují. Pomocí VZP se chceme přiblížit takovému uspořádání společnosti, ve které systém přerozdělování musí natolik motivovat ke smysluplné práci, že ji vykonává přesně tolik lidí, kolik je zapotřebí k vytvoření zdrojů pro všechny.
-
-Současně musejí být pracující (podnikání je také práce) spokojení a ostatní netrpí nedůstojnou nouzí a mají mnoho příležitostí svoji situaci změnit.
+Pirátská strana má zato, že garantem sociálního systému musí být stát.
+Proto vystupuje proti privatizaci důchodového systému a převodu peněz občanů do na zisk orientovaných soukromých fondů.
+Piráti prosazují průběžný důchodový systém, který reflektuje reálně odpracovanou dobu. 
+Odpovědnost za podchycení demografického vývoje a dobré prostředí pro výchovu dětí nemůže stát přenášet na soukromé firmy.
