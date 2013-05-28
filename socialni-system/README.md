@@ -17,6 +17,7 @@ Je to spravedlivý podíl bohatství země, do které se narodil a kterou sdíl�
 VZP odstraní strach z nezaměstnanosti a obavu o nejzákladnější materiální zajistění do budoucna.
 Umožní zjednodušení, zprůhlednění a zefektivnění současného systému podmíněných dávek, mj. odstraněním těch dávek, které zastarali nebo jejich výběr je neefektivní či náchylný ke korupci.
 Zároveň podpoří rozkvět nekomerčních aktivit (viz. bod svobodná kultura), které pracovní trh neumí ohodnotit.
+Pomocí VZP se chceme přiblížit takovému uspořádání společnosti, ve které systém přerozdělování natolik motivuje ke smysluplné práci, že ji vykonává přesně tolik lidí, kolik je zapotřebí k vytvoření zdrojů pro všechny.
 Piráti předpokládají, že díky VZP dojde k explozi kreativity!
 
 Výše základního příjmu se však musí odvíjet od možností ekonomiky.
