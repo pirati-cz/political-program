@@ -26,7 +26,7 @@ Piráti považují za spravedlivé financovat VZP z:
 - daní prostředí znečištujících produktů, včetně luxusního, které je zpravidla vyráběno neefektivně, čímž nadměrně poškozuje společné životní prostředí
 - zásadní změnou zdanění spotřeby na úkor zdanění práce. Je tedy spjat se sjednocením daní, jež se nabalují na produkt či službu během dlouhé cesty ke spotřebiteli v jednu komplexní daň uplatňovanou až na konci řetězce (viz. bod Daně).
 
-VZP musí být vypláceno moderním způsobem prostřednictvím transparentního elektronického systému hodného 21. století založeného na svobodném software.
+VZP i ostatní výplaty musí být vypláceny moderním způsobem prostřednictvím transparentního elektronického systému, založeného na svobodném software (viz bod e-government).
 To umožní vyplácet ho s takovou frekvencí, která se ukáže být nejefektivnější a nejvíce motivující bez zbytečného plýtvání prostředky.
 Piráti mají za to, že každý musí být dostatečně zodpovědný (viz. vzdělávací systém) aby VZP využil podle vlastního uvážení.
 
