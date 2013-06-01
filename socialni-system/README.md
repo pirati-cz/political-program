@@ -28,7 +28,7 @@ Piráti považují za spravedlivé financovat VZP z:
 
 VZP i ostatní výplaty musí být vypláceny moderním způsobem prostřednictvím transparentního elektronického systému, založeného na svobodném software (viz bod e-government).
 To umožní vyplácet ho s takovou frekvencí, která se ukáže být nejefektivnější a nejvíce motivující bez zbytečného plýtvání prostředky.
-Piráti mají za to, že každý musí být dostatečně zodpovědný (viz. vzdělávací systém) aby VZP využil podle vlastního uvážení.
+Piráti mají za to, že každý musí být dostatečně zodpovědný (viz. vzdělávací systém), aby VZP využil podle vlastního uvážení.
 
 Pirátská strana má zato, že garantem sociálního systému musí být stát.
 Proto vystupuje proti privatizaci důchodového systému a převodu peněz občanů do na zisk orientovaných soukromých fondů.
