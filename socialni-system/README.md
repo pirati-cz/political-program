@@ -1,9 +1,5 @@
 Sociální systém
 ===============
-Sociální politika státu je základním pilířem společenské stability.
-Přerozdělování trhem vylučuje značnou část občanů z přístupu ke zdrojům a vede k neustálé koncentraci bohatství.
-Stát musí vytvářet prostředí, ve kterém motivace trhem stimuluje k produkci dostatku zdrojů, kterými lze zajistit co nejvyšší standard i pro ty, kteří pracovat nemohou.
-
 Garantem sociálního systému musí být stát.
 Sociální politika státu je základním pilířem společenské stability.
 Úkolem státu je vytvořit pro všechny své občany podmínky, v nichž by mohli důstojně a zdravě žít.
@@ -12,7 +8,8 @@ Piráti jsou přesvědčeni, že současná ekonomika vytváří dostatek zdroj�
 Rozvoj technologií a automatizace vede logicky k dostatku produktů při zapojení menšího podílu pracovní síly.
 Zvýšená produkce umožňuje zajistit základní lidské právo na důstojný život všech občanů, tedy i těch, kteří pracovat nemohou, nebo se chtějí věnovat činnosti, která není v dané době placená.
 
-Piráti prosazují systémové změny v přístupu k řešení problematiky zaměstnanosti, její struktury a zároveň sociálních jistot. Chceme se přiblížit takovému uspořádání společnosti, ve kterém systém přerozdělování do té míry motivuje ke smysluplné práci, že ji vykonává tolik lidí, kolik je zapotřebí k vytvoření zdrojů pro všechny.
+Piráti prosazují systémové změny v přístupu k řešení problematiky zaměstnanosti, její struktury a zároveň sociálních jistot.
+Chceme se přiblížit takovému uspořádání společnosti, ve kterém systém přerozdělování do té míry motivuje ke smysluplné práci, že ji vykonává tolik lidí, kolik je zapotřebí k vytvoření zdrojů pro všechny.
 Současně chceme vytvořit prostor pro rozvoj nekomerčních aktivit (viz bod svobodná kultura, volnočasové aktivity), které pracovní trh neumí ohodnotit.
 
 Základní příjem
@@ -41,6 +38,3 @@ Je úkolem státu pomoci lidem v obtížné sociální situaci.
 Zejména jde o zajištění potřeb občanů s postižením, nemocných, seniorů, rodin s dětmi či dětí bez rodičů a vytvoření systému sociálního bydlení.
 Konkrétní sociální služby stát nutně zajišťovat nemusí.
 Mohou být zajištěny v domácí péči, sociálními zařízeními, církvemi, charitou nebo komunitními aktivitami.
-Důchody
-
-Pirátská strana má za to, že garantem sociálního systému musí být stát. Proto vystupuje proti privatizaci důchodového systému a převodu peněz občanů do soukromých fondů orientovaných na zisk. Piráti prosazují průběžný důchodový systém, který reflektuje reálně odpracovanou dobu. Odpovědnost za podchycení demografického vývoje a dobré prostředí pro výchovu dětí nemůže stát přenášet na soukromé firmy.
