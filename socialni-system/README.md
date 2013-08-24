@@ -6,7 +6,8 @@ Sociální politika státu je základním pilířem společenské stability.
 
 Piráti jsou přesvědčeni, že současná ekonomika vytváří dostatek zdrojů pro kvalitní život všech.
 Rozvoj technologií a automatizace vede logicky k dostatku produktů při zapojení menšího podílu pracovní síly.
-Zvýšená produkce umožňuje zajistit základní lidské právo na důstojný život všech občanů, tedy i těch, kteří pracovat nemohou, nebo se chtějí věnovat činnosti, která není v dané době placená.
+Zvýšená produkce umožňuje zajistit základní lidské právo na důstojný život všech občanů.
+Tedy i těch, kteří pracovat nemohou, nebo se chtějí věnovat činnosti, která není v dané době placená.
 
 Piráti prosazují systémové změny v přístupu k řešení problematiky zaměstnanosti, její struktury a zároveň sociálních jistot.
 Chceme se přiblížit takovému uspořádání společnosti, ve kterém systém přerozdělování do té míry motivuje ke smysluplné práci, že ji vykonává tolik lidí, kolik je zapotřebí k vytvoření zdrojů pro všechny.
