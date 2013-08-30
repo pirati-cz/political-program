@@ -1,28 +1,34 @@
-Zemědělství a venkov
-====================
+Zemědělství
+===========
 
-Není pochyb o tom, že zemědělství je jedním ze strategických odvětví,
-protože uspokojuje základní životní potřebu, jídlo.
-Současná extenzivní, dotacemi pokřivená, na chemikáliích závislá masová
-podoba zamědělství je však trvale neudžitelná a tak je třeba hledat nové cesty.
-Piráti věří, že vhodnou cestou je decentralizace a podpora lokální výroby
-skrz malé firmy rodiného/komunitního typu, které mezi sebou efektivně sdílí
-informace o oběmu produkce, odbytu, nebo pěstováných plodinách.
+Současná dotacemi pokřivená, na chemikáliích závislá masová podoba zemědělství je trvale neudržitelná.
+Je třeba hledat nové cesty.
+Naše vize zemědělství se neopírá o velké zemědělské koncerny, ale o drobné zemědělce, kteří za rovných tržních podmínek nabízejí ekologické výrobky spotřebitelům. 
 
-Zemědělství poskytuje kromě produkce potravin i funkce jako zachování krajiny 
-a zemědělské půdy a další funkce enviromentální, ekologické ale i sociální. 
+Zemědělství je jedním ze strategických odvětví, protože uspokojuje základní životní potřebu, jídlo.
+Zemědělství má však také důležitou funkci pro zachování zemědělské půdy pro další generace, ochranu životního prostředí, zachování zdraví obyvatel a využití jejich volného času.
 
-Piráti ví, že atraktivita zeměděltví se v podledních desetiletích rapidně snížila a to i přes to, jak je důležité. 
-Budou tedy podporovat vzdělávání v oblasti zemědělství s důrazem na co nejširší rozhled.
-Jedině tak lze čekat, že se najdou alternativní přístupy (např permakultura) a budou se dále rozvíjet.
-Piráti zároveň podpoří odstraněním zbytečných zákazů, tak, aby tyto postupy mohly být aplikovány v praxi.
+Piráti prosazují v zemědělské politice následující principy:
 
-Dalším cílem je podpořit vznik regionálních komunit, malých rodiných podniků
-snížením administrativy a podporou prodejů jejich produkce
-(marketingové značky [Klasa](http://www.eklasa.cz/), farmářské trhy, atd).
-Vznikem těchto malých subjektů hospodařících na menších plochách chtějí piráti
-dosáhnout přirozeného rozdělování obrovských lánů, které jsou náchylné na odplavování půdy, vznik povodní, atd.  
+Potravinová soběstačnost bez velkých koncernů.
+Soustředění celého potravinářského průmyslu do rukou několika velkých společností vede ke spekulacím s potravinami a vydíratelnosti státu.
+Podporujeme daňové zvýhodnění malostatků, snížení přebujelé byrokracie, rozbíjení velkých koncernů a státní dohled nad kvalitou potravin, které velké koncerny prodávají.
+To přirozeně povede k rozdělení velkých lánů, které jsou náchylné na odplavování půdy, vznik povodní, atd.
 
-Piráti vědí, že ačkoli dotace jsou dlouhodobě neudržitelné a pokřivují trh,
-není možné je zrušit ze dne na den.
-Proto podpoří jejich čerpání efektivními a transparentními nástroji a sdílením informací jak je používat.
+Stát nesmí určovat, co se má pěstovat. Nesouhlasíme s účelovými zákazy pěstování určitých zemědělských plodin. 
+Pod  záminkou možného zneužití se zde navrhují nesmyslné zákazy a omezení na pěstování tradičních plodin jako mák a konopí.
+Patenty na odrůdy  osiv a jiné rostliny nesmí zemědělcům zakazovat zasít a pěstovat vyšlechtěné rostliny.
+
+Informovaný a ekologický trh se zemědělskými produkty. Optimální míru zemědělské produkce neurčí státní úředník, ale určuje ji trh. Stát má za úkol financovat výzkum, regulovat velké zemědělské koncerny a pomoci efektivnímu  sdílení informací o živočišné a rostlinné produkci a odbytu.
+Podporujeme také vzdělávání v oblasti zemědělství s důrazem na široký rozhled.
+Jedině tak lze čekat, že se najdou nová ekologická řešení. 
+
+Odbouráme zemědělské dotace.
+Dotace na biopaliva a z toho plynoucí zaplavení polí řepkou místo tradiční a nepěstování cukrové řepy jsou dalším příkladem pokřivení trhu.
+S dotacemi pro zemědělce i zemědělské koncerny nesouhlasíme a  dlouhodobě je chceme na evropské úrovni zrušit.
+Není to však možné  udělat ze dne na den. Proto podporujeme jejich snížení snižování, zveřejňování příjemců, snížení administrativy a stejnou dostupnost i pro drobné zemědělce.
+
+Ochrana zemědělské půdy, lesů a krajiny.
+Uvědomujeme si, že zemědělská půda, rybníky a lesy jsou jedinečným přírodním bohatstvím.
+Podporujeme jejich ochranu, plné využití pro ekologické zemědělství, jakož i otevřenost lesů a jiné krajiny pro volný čas.
+Prosazujeme, aby nejkvalitnější půda byla aktivně využívána pouze pro zemědělské účely.
