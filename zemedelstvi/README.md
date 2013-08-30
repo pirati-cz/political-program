@@ -16,10 +16,11 @@ Podporujeme daňové zvýhodnění malostatků, snížení přebujelé byrokraci
 To přirozeně povede k rozdělení velkých lánů, které jsou náchylné na odplavování půdy, vznik povodní, atd.
 
 Stát nesmí určovat, co se má pěstovat. Nesouhlasíme s účelovými zákazy pěstování určitých zemědělských plodin. 
-Pod  záminkou možného zneužití se zde navrhují nesmyslné zákazy a omezení na pěstování tradičních plodin jako mák a konopí.
-Patenty na odrůdy  osiv a jiné rostliny nesmí zemědělcům zakazovat zasít a pěstovat vyšlechtěné rostliny.
+Pod záminkou možného zneužití se zde navrhují nesmyslné zákazy a omezení na pěstování tradičních plodin jako mák a konopí.
+Patenty na odrůdy osiv a jiné rostliny nesmí zemědělce nutit k nákupu předražených produktů vyžadujících stejně drahé chemické přípravky od monopolních producentů a znemožňovat zasít a pěstovat původní druhy.
 
-Informovaný a ekologický trh se zemědělskými produkty. Optimální míru zemědělské produkce neurčí státní úředník, ale určuje ji trh. Stát má za úkol financovat výzkum, regulovat velké zemědělské koncerny a pomoci efektivnímu  sdílení informací o živočišné a rostlinné produkci a odbytu.
+Informovaný a ekologický trh se zemědělskými produkty. Optimální míru zemědělské produkce neurčí státní úředník, ale určuje ji trh.
+Stát má za úkol financovat výzkum, regulovat velké zemědělské koncerny a pomoci efektivnímu sdílení informací o živočišné a rostlinné produkci a odbytu.
 Podporujeme také vzdělávání v oblasti zemědělství s důrazem na široký rozhled.
 Jedině tak lze čekat, že se najdou nová ekologická řešení. 
 
